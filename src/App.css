@@ -1,0 +1,19 @@
+.container-fluid{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    border:none;
+    background-color: rgb(27, 27, 46);
+}
+.rounded{
+    background-color: whitesmoke;
+    box-shadow:3px 3px 5px grey,-3px -3px 5px grey;
+}
+.img img{
+    width:100px;
+    height:100px;
+}
+.img{
+    text-align: center;
+    margin-bottom:15px;
+}
